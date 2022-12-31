@@ -2,7 +2,7 @@ Hola buen dia
 Soy Jose Miguel Nuñez Bernal, Gracias por la atencion.
 
 
-##Instalacion
+## Instalacion
 
 Para la instalacion y correcto funcionamiento seguir los siguientes pasos:
 
@@ -12,5 +12,6 @@ Para la instalacion y correcto funcionamiento seguir los siguientes pasos:
 4. Cambiar la contraseña de mySQL, la cual esta ubicada en modelos.Database en una variable llamada password
 5. Por ultimo ejecutar el archivo principal.java ubicado en el paquete vistas.
 
-##Base de datos
+## Base de datos
+
 La base de datos es bastante sencilla, consta de 3 tablas una para cada tipo de nave.
