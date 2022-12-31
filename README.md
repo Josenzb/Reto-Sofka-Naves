@@ -12,6 +12,21 @@ Para la instalacion y correcto funcionamiento seguir los siguientes pasos:
 4. Cambiar la contraseña de mySQL, la cual esta ubicada en modelos.Database en una variable llamada password
 5. Por ultimo ejecutar el archivo principal.java ubicado en el paquete vistas.
 
+## Herramientas
+
+Para este proyecto se utilizo:
+1. Lenguaje de programacion Java
+2. JDK 16
+3. Java Swing
+4. MySQL Workbench
+5. Netbeans 14
+
+## Interfaz grafica
+
+Se realizo una interfaz grafica en Java Swing.
+
+![Pagina principal]()
+
 ## Base de datos
 
 La base de datos es bastante sencilla, consta de 3 tablas una para cada tipo de nave.
@@ -57,7 +72,4 @@ Cuenta con los atributos:
 4. Mision: Mision de la nave
 5. Combustible: Tipo de combustible de la nave
 6. Pais: Pais que diseño y contruyo la nave
-
-
-
 
