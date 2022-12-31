@@ -22,12 +22,27 @@ Tabla Lanzadera
 
 Cuenta con los atributos:
 
-Nombre: Nombre de la nave
-Peso: Peso de la nave
-Empuje: Empuje de la nave en toneladas
-Capacidad: Capacidad de carga de la nave en toneladas
-Altura: Altura de la nave en metros
-Alcance: Alcance de la nave en kilometros
-Potencia: Potencia de la nave en caballos de fuerza
-Pais: Pais que diseño y contruyo la nave
+1. Nombre: Nombre de la nave
+2. Peso: Peso de la nave
+3. Empuje: Empuje de la nave en toneladas
+4. Capacidad: Capacidad de carga de la nave en toneladas
+5. Altura: Altura de la nave en metros
+6. Alcance: Alcance de la nave en kilometros
+7. Potencia: Potencia de la nave en caballos de fuerza
+8. Pais: Pais que diseño y contruyo la nave
+
+Tabla Tripuladas
+
+![Tabla Tripuladas](https://res.cloudinary.com/drwxceogq/image/upload/v1672448662/samples/Tabla_tripuladas_xn7ame.jpg)
+
+Cuenta con los atributos:
+
+1. Nombre: Nombre de la nave
+2. Finalidad de uso: Proposito de la nave
+3. Peso: Peso de la nave
+4. Distancia de orbita: Distancia a la cual orbita la nave en kilometros
+5. Capacidad: Numero de personas que pueden abordar la nave
+6. Pais: Pais que diseño y contruyo la nave
+
+
 
