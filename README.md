@@ -9,8 +9,10 @@ Para la instalacion y correcto funcionamiento seguir los siguientes pasos:
 1. Cambiar el nombre de la carpeta descargada a "Reto Sofka Naves" (sin las comillas, basicamente quitarle los guiones agregados por github)
 2. Mover la carpeta y ubicarla en el disco C
 3. Dentro de la carpeta se encuentra un archivo sql, el cual debe usarse para importar la base de datos con la cual opera el programa.
-4. Cambiar la contraseña de mySQL, la cual esta ubicada en modelos.Database en una variable llamada password
-5. Por ultimo ejecutar el archivo principal.java ubicado en el paquete vistas.
+4. Abrir la carpeta con Netbeans o el IDE de su preferencia
+5. Cambiar la contraseña de mySQL, la cual esta ubicada en modelos.Database en una variable llamada password.
+6. En ocasiones es posible que netbeans detecte errores en las vistas, esto es por una libreria de JavaSwing que maneja el absolute Layout, para arreglar eso puedes seguir los pasos de este video de 1 minuto: https://www.youtube.com/watch?v=B0prYbtdKNI&t=50s. en el cual agregan esta libreria al proyecto. 
+7. Por ultimo ejecutar el archivo principal.java ubicado en el paquete vistas.
 
 ## Herramientas
 
