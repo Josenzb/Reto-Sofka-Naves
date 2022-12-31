@@ -25,7 +25,7 @@ Para este proyecto se utilizo:
 
 Se realizo una interfaz grafica en Java Swing.
 
-![Pagina principal]()
+![Pagina principal](https://res.cloudinary.com/drwxceogq/image/upload/v1672449491/samples/pagina_principal_xsptc2.jpg)
 
 ## Base de datos
 
