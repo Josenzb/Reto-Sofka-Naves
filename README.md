@@ -16,7 +16,7 @@ Para la instalacion y correcto funcionamiento seguir los siguientes pasos:
 
 La base de datos es bastante sencilla, consta de 3 tablas una para cada tipo de nave.
 
-Tabla Lanzadera
+### Tabla Lanzadera
 
 ![Tabla lanzadera](https://res.cloudinary.com/drwxceogq/image/upload/v1672448018/samples/Tabla_lanzadera_sjmgfz.jpg)
 
@@ -29,9 +29,10 @@ Cuenta con los atributos:
 5. Altura: Altura de la nave en metros
 6. Alcance: Alcance de la nave en kilometros
 7. Potencia: Potencia de la nave en caballos de fuerza
-8. Pais: Pais que diseño y contruyo la nave
+8. Combustible: Tipo de combustible de la nave
+9. Pais: Pais que diseño y contruyo la nave
 
-Tabla Tripuladas
+### Tabla Tripuladas
 
 ![Tabla Tripuladas](https://res.cloudinary.com/drwxceogq/image/upload/v1672448662/samples/Tabla_tripuladas_xn7ame.jpg)
 
@@ -43,6 +44,20 @@ Cuenta con los atributos:
 4. Distancia de orbita: Distancia a la cual orbita la nave en kilometros
 5. Capacidad: Numero de personas que pueden abordar la nave
 6. Pais: Pais que diseño y contruyo la nave
+
+### Tabla no Tripuladas
+
+![Tabla no Tripuladas](https://res.cloudinary.com/drwxceogq/image/upload/v1672449060/samples/no_Tripuladas_wkvsiw.jpg)
+
+Cuenta con los atributos:
+
+1. Nombre: Nombre de la nave
+2. Cantidad de motores: Cantidad de motores de la nave
+3. Empuje: Empuje de la nave en toneladas
+4. Mision: Mision de la nave
+5. Combustible: Tipo de combustible de la nave
+6. Pais: Pais que diseño y contruyo la nave
+
 
 
 
