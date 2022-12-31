@@ -73,3 +73,9 @@ Cuenta con los atributos:
 5. Combustible: Tipo de combustible de la nave
 6. Pais: Pais que diseño y contruyo la nave
 
+## Video
+
+Se adjunta video explicativo.
+
+https://www.youtube.com/watch?v=uWlLI5fNIe4
+
