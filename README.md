@@ -16,5 +16,17 @@ Para la instalacion y correcto funcionamiento seguir los siguientes pasos:
 
 La base de datos es bastante sencilla, consta de 3 tablas una para cada tipo de nave.
 
+Tabla Lanzadera
 ![Tabla lanzadera](https://res.cloudinary.com/drwxceogq/image/upload/v1672448018/samples/Tabla_lanzadera_sjmgfz.jpg)
+
+Cuenta con los atributos:
+
+Nombre: Nombre de la nave
+Peso: Peso de la nave
+Empuje: Empuje de la nave en toneladas
+Capacidad: Capacidad de carga de la nave en toneladas
+Altura: Altura de la nave en metros
+Alcance: Alcance de la nave en kilometros
+Potencia: Potencia de la nave en caballos de fuerza
+Pais: Pais que diseño y contruyo la nave
 
