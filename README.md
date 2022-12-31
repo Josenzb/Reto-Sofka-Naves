@@ -15,3 +15,6 @@ Para la instalacion y correcto funcionamiento seguir los siguientes pasos:
 ## Base de datos
 
 La base de datos es bastante sencilla, consta de 3 tablas una para cada tipo de nave.
+
+![Tabla lanzadera](https://res.cloudinary.com/drwxceogq/image/upload/v1672448018/samples/Tabla_lanzadera_sjmgfz.jpg)
+
